@@ -353,15 +353,6 @@ It can help in:
 - Improving attack classification using machine learning
 - Explaining detection decisions using feature importance and SHAP
 
----
-
-## Resume Highlight
-
-This project can be described on a resume as:
-
-> Built a Network Anomaly Detection system using the NSL-KDD dataset to classify normal and malicious traffic. Implemented Logistic Regression, Random Forest, Isolation Forest, Autoencoder, and a Hybrid Model, evaluated performance using accuracy, precision, recall, F1-score, confusion matrices, ROC curves, feature importance, and SHAP explainability, with Random Forest achieving approximately 93% accuracy.
-
----
 
 ## Future Enhancements
 
